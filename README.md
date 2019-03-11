@@ -1,2 +1,4 @@
 # linuxstart
 linuxstart exmple
+
+*testexmple
